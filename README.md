@@ -3,5 +3,7 @@ This repository contains the code for predicting the Education Level of the Winn
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PsaDQhF5gVK_tkB73d7CU-U10xo_A-h8#scrollTo=WgtOGpHKwW_p)
 
+[Corresponding Kaggle competition](https://www.kaggle.com/competitions/who-is-the-real-winner/discussion/487993)
+
 
 
